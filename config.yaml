@@ -1,0 +1,7 @@
+path: /Users/user/Desktop/MLPROJ/object_detect/train
+train: images
+val: images
+
+# Classes
+names:
+  0: tiger
